@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 80503cbeb5c921f43b893dd0a5384eb7
+timeCreated: 1426008577
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: powerring_0
+    21300002: powerring_1
+    21300004: powerring_2
+    21300006: powerring_3
+    21300008: powerring_4
+    21300010: powerring_5
+    21300012: powerring_6
+    21300014: powerring_7
+    21300016: powerring_8
+    21300018: powerring_9
+    21300020: powerring_10
+    21300022: powerring_11
+    21300024: powerring_12
+    21300026: powerring_13
+    21300028: powerring_14
+    21300030: powerring_15
+    21300032: powerring_16
+    21300034: powerring_17
+    21300036: powerring_18
+    21300038: powerring_19
+    21300040: powerring_20
+    21300042: powerring_21
+    21300044: powerring_22
+    21300046: powerring_23
+    21300048: powerring_24
+    21300050: powerring_25
+    21300052: powerring_26
+    21300054: powerring_27
+    21300056: powerring_28
+    21300058: powerring_29
+    21300060: powerring_30
+    21300062: powerring_31
+    21300064: powerring_32
+    21300066: powerring_33
+    21300068: powerring_34
+    21300070: powerring_35
+    21300072: powerring_36
+    21300074: powerring_37
+    21300076: powerring_38
+    21300078: powerring_39
+    21300080: powerring_40
+    21300082: powerring_41
+    21300084: powerring_42
+    21300086: powerring_43
+    21300088: powerring_44
+    21300090: powerring_45
+    21300092: powerring_46
+    21300094: powerring_47
+    21300096: powerring_48
+    21300098: powerring_49
+    21300100: powerring_50
+    21300102: powerring_51
+    21300104: powerring_52
+    21300106: powerring_53
+    21300108: powerring_54
+    21300110: powerring_55
+    21300112: powerring_56
+    21300114: powerring_57
+    21300116: powerring_58
+    21300118: powerring_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: powerring_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 456
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 456
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 456
+        width: 52
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 459
+        width: 52
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 459
+        width: 52
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 459
+        width: 52
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 459
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 459
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 399
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 398
+        width: 46
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 398
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 396
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 396
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 396
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 396
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 396
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 336
+        width: 50
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 338
+        width: 52
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 336
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 336
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 336
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 336
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 336
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 336
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 276
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 276
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_27
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 276
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 276
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 276
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 276
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 276
+        width: 50
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 216
+        width: 50
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 216
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 218
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 218
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 219
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 219
+        width: 46
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_38
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 219
+        width: 46
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 219
+        width: 48
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 156
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 156
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 156
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 156
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_44
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 156
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_45
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 156
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_46
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 156
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_47
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 156
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 50
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 96
+        width: 50
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_52
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 96
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_54
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 96
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_55
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 96
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_58
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 36
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerring_59
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 38
+        width: 52
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

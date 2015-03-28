@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 56dd6729f41f74449b3c571efac66553
+timeCreated: 1427113746
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EvilEnemy_0
+    21300002: EvilEnemy_1
+    21300004: EvilEnemy_2
+    21300006: EvilEnemy_3
+    21300008: EvilEnemy_4
+    21300010: EvilEnemy_5
+    21300012: EvilEnemy_6
+    21300014: EvilEnemy_7
+    21300016: EvilEnemy_8
+    21300018: EvilEnemy_9
+    21300020: EvilEnemy_10
+    21300022: EvilEnemy_11
+    21300024: EvilEnemy_12
+    21300026: EvilEnemy_13
+    21300028: EvilEnemy_14
+    21300030: EvilEnemy_15
+    21300032: EvilEnemy_16
+    21300034: EvilEnemy_17
+    21300036: EvilEnemy_18
+    21300038: EvilEnemy_19
+    21300040: EvilEnemy_20
+    21300042: EvilEnemy_21
+    21300044: EvilEnemy_22
+    21300046: EvilEnemy_23
+    21300048: EvilEnemy_24
+    21300050: EvilEnemy_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EvilEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 310
+        width: 59
+        height: 59
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 310
+        width: 59
+        height: 58
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 310
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 310
+        width: 59
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 238
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 237
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 237
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 236
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 239
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 236
+        width: 63
+        height: 61
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 210
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 201
+        width: 40
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 173
+        width: 69
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 167
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 167
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 168
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 187
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 167
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 169
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 168
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 121
+        width: 20
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 95
+        width: 60
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 93
+        width: 60
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 57
+        width: 122
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 122
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
